@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @duranreyes
+- 👋 Hi, I’m @duranreyes.
 - 👀 I’m interested in fullstack development.
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on stunning projects
-- 📫 Reach me here
+- 🌱 I’m currently learning Rust.
+- 💞️ I’m looking to collaborate on stunning projects.
+- 📫 Reach me for your projects.
 
 <!---
 duranreyes/duranreyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
