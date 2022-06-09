@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @duranreyes.
-- 👀 I’m interested in fullstack development.
+- 👋 Hi, I’m Reyes Duran.
+- 👀 I’m interested in fullstack development jobs.
 - 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on stunning projects.
 - 📫 Reach me for your projects.
