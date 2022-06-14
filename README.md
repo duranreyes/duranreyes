@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Reyes Duran.
+- 👋 Hi, I’m Reyes Duran from Colombia.
 - 👀 I’m interested in fullstack development jobs.
 - 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on stunning projects.
