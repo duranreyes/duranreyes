@@ -2,7 +2,7 @@
 - 👀 I’m interested in fullstack development jobs.
 - 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on stunning projects.
-- 📫 Reach me for your projects.
+- 📫 I am open to offers.
 
 <!---
 duranreyes/duranreyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
